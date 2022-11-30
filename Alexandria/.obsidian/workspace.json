@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba0d10cc10d1860",
+        "id": "d26345f4404433fa",
         "type": "tabs",
         "children": [
           {
-            "id": "5670722e7062e901",
+            "id": "86e70195610e577e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Definitions.md",
+                "file": "Design Patterns/Behavioral/Factory Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69cb076e2fe61c82",
+            "id": "c1c3062348a32dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Creational/Definitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "979c820812252345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Behavioral/Definition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f0204be70f4ad9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Definitions.md",
+                "file": "Design Patterns/Behavioral/Factory Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Definitions.md",
+                "file": "Design Patterns/Behavioral/Factory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Definitions.md",
+                "file": "Design Patterns/Behavioral/Factory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Definitions.md"
+                "file": "Design Patterns/Behavioral/Factory Method.md"
               }
             }
           }
@@ -170,14 +146,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4f0204be70f4ad9a",
+  "active": "c1c3062348a32dc6",
   "lastOpenFiles": [
-    "Design Patterns/Structural/Definition.md",
+    "Design Patterns/Behavioral/Factory Method Illu.md",
+    "Design Patterns/Behavioral/Factory Method.md",
+    "References/Design Patterns.md",
+    "English/New words.md",
+    "1.md",
+    "Design Patterns/Definitions.md",
     "Design Patterns/Behavioral/Definition.md",
-    "Design Patterns/Creational/Definitions.md",
-    "Design Patterns/Definitions.md"
+    "2022-12-01.md",
+    "Excalidraw/Drawing 2022-12-01 00.02.47.excalidraw.md"
   ]
 }

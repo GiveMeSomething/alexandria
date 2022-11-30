@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "FiraCode NF Retina,Roboto",
+  "textFontFamily": "Roboto,FiraCode NF Retina",
+  "monospaceFontFamily": "FiraCode NF Retina",
+  "nativeMenus": false,
+  "translucency": true
 }
