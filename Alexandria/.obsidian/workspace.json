@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "d8e16b6cefcc1b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ba0d10cc10d1860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5670722e7062e901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69cb076e2fe61c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Creational/Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "979c820812252345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Behavioral/Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f0204be70f4ad9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c7bc946ea6269cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edf466e4abb962d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13da8f8eb6c94d0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5ed9f2ad13788ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "820969f6cb10fbe3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "353e43ed61ce1f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "e24e27425cf35559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "012fecc8518df1f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design Patterns/Definitions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5889959af74a5bad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design Patterns/Definitions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "610719f1c7c2636e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "013f30e4e573af4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design Patterns/Definitions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f0204be70f4ad9a",
+  "lastOpenFiles": [
+    "Design Patterns/Structural/Definition.md",
+    "Design Patterns/Behavioral/Definition.md",
+    "Design Patterns/Creational/Definitions.md",
+    "Design Patterns/Definitions.md"
+  ]
+}
