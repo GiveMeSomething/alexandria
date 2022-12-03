@@ -25,6 +25,18 @@ Also known as **Virtual Constructor**
 > [(3)](#references)
 
 
+## Pros and Cons
+
+### Pros
+
+- *Single Responsibility Principle*. By moving all creation code to one place
+- *Open/Closed Principle*. Easily support new class just by extend current abstract class, or implement current interface (for `Product`)
+- *Avoid tight coupling*
+
+### Cons
+- The code become more complicated after implement this pattern as we have to create abstraction for Product and factories for creating types of product
+
+
 ## References
 1. https://stackoverflow.com/questions/69849/factory-pattern-when-to-use-factory-methods
 2. https://en.wikipedia.org/wiki/Factory_method_pattern
