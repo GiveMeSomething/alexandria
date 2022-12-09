@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d26345f4404433fa",
+        "id": "05d90541d3de5076",
         "type": "tabs",
         "children": [
           {
-            "id": "86e70195610e577e",
+            "id": "971bc1bbc9006081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Creational/Factory Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a8aedfa008dec15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Creational/Abstract Factory Method.md",
+                "file": "English/Essay/Cause - Effect.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Creational/Abstract Factory Method.md",
+                "file": "English/Essay/Cause - Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Creational/Abstract Factory Method.md",
+                "file": "English/Essay/Cause - Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Creational/Abstract Factory Method.md"
+                "file": "English/Essay/Cause - Effect.md"
               }
             }
           }
@@ -148,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1a8aedfa008dec15",
+  "active": "971bc1bbc9006081",
   "lastOpenFiles": [
+    "English/New words.md",
+    "English/Essay/Compare - Contrast.md",
+    "English/Essay/Cause - Effect.md",
+    "English/Essay/Argument.md",
+    "English/Essay/Essay Writing.md",
+    "Design Patterns/Creational/Builder.md",
+    "Design Patterns/Creational/Prototype.md",
+    "Design Patterns/Creational/Builder Illu.md",
     "Design Patterns/Creational/Factory Method.md",
-    "Design Patterns/Creational/Abstract Factory Method.md",
-    "Design Patterns/Creational/Abstract Factory Method Illu.md",
-    "Design Patterns/Creational/Factory Method Illu.md",
-    "Design Patterns/Relationships.md",
-    "Design Patterns/Creational/Definitions.md",
-    "Design Patterns/Behavioral/Definition.md",
-    "Design Patterns/Structural/Definition.md",
-    "References/Design Patterns.md",
-    "English/New words.md"
+    "Design Patterns/Creational/Abstract Factory Method.md"
   ]
 }

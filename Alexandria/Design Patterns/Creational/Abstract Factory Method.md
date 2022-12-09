@@ -21,6 +21,8 @@
 
 ### Cons
 - This will further increase code complexity compared to factory method since we have to introduce another layer of abstraction above factory
+- **Supporting new kinds of products is difficult**
+	- As stated in structure, types of products is fixed and defined in `AbstractFactory` class/interface. Supporting new kinds of products requires extending the interface/class, which involves changing all its subclass.
 
 
 ## References
