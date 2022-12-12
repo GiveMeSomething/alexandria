@@ -1,8 +1,10 @@
 **kludge**(n): an ill-assorted collection of parts assembled to fulfill a particular purpose
 **kludge**(v): use ill-assorted parts to make (something)
+
 - Giải pháp tạm bợ
 
 **dogma**(n): a belief or set of beliefs that is accepted by the members of a group without being questioned or doubted
+
 - Giáo điều, tin tưởng mù quáng
 
 **licorice**(n): cam thảo
@@ -51,5 +53,3 @@
 **inferior**(adj): lower in rank, status or quality
 
 **serene**(adj): calm, peaceful, and untroubled; tranquil
-
-
